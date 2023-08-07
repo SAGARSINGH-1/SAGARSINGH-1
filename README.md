@@ -6,7 +6,7 @@
 
 <p align="center">
   🌱 I’m currently learning JavaScript, React<br><br>
-  📫 How to reach me: [Sagar.01ko@gmail.com](mailto:Sagar.01ko@gmail.com)
+  📫 How to reach me: <a href="mailto:Sagar.01ko@gmail.com">Sagar.01ko@gmail.com</a>
 </p>
 
 <h3 align="center">I work with these technologies</h3>
