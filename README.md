@@ -16,7 +16,7 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg](https://www.bing.com/images/search?view=detailV2&ccid=vTo0WX6%2f&id=07B7077FE120C81FCEAB6EDDBD6212AA3FEBB6E0&thid=OIP.vTo0WX6_eN-IKaXOg21yFwHaEK&mediaurl=https%3a%2f%2flogospng.org%2fwp-content%2fuploads%2ftailwind-css.png&exph=720&expw=1280&q=tailwing+css+logo&simid=608026834036478672&FORM=IRPRST&ck=FA520ECEDACB47A096230719E52FAA4D&selectedIndex=14)" height="40" alt="tailwindcss logo" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="15" />
