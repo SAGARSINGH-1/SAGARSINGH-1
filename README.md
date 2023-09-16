@@ -24,6 +24,6 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
   <img width="15" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c++/c++-original.svg](https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg)https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" height="40" alt="React logo" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
   <img width="15" />
 </div>
