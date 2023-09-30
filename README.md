@@ -1,3 +1,5 @@
+[![An image of @sagarsingh1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sagarsingh1)](https://holopin.io/@sagarsingh1)
+
 <h1 align="center">Hi 👋, I'm Sagar Singh</h1>
 
 <p align="center">A passionate Web developer from India</p>
