@@ -27,3 +27,5 @@
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
   <img width="15" />
 </div>
+
+[![An image of @sagarsingh1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sagarsingh1)](https://holopin.io/@sagarsingh1)
