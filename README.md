@@ -1,17 +1,17 @@
-<h1 >Hi 👋, I'm Sagar Singh</h1>
+<h1 align="center">Hi 👋, I'm Sagar Singh</h1>
 
-<p >A passionate Web developer from India</p>
+<p align="center">A passionate Web developer from India</p>
 
-<h3 >About me</h3>
+<h3 align="center">About me</h3>
 
-<p >
+<p align="center">
   🌱 I’m currently learning JavaScript, React<br><br>
   📫 How to reach me: <a href="mailto:Sagar.01ko@gmail.com">Sagar.01ko@gmail.com</a>
 </p>
 
-<h3 >I work with these technologies</h3>
+<h3 align="center">I work with these technologies</h3>
 
-<div >
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
