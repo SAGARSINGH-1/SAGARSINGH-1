@@ -34,6 +34,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="Github logo" />
   <img width="15" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+<<<<<<< HEAD
+=======
+  <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/termux/termux-original.svg" height="40" alt="React logo" />
+>>>>>>> ba3f5e7555be9951eef6e151d29205bc795c2a40
 </div>
 <br>
 <br>
