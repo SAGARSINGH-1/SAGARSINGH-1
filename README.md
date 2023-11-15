@@ -12,6 +12,7 @@
   ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
     
   <h3>Tech I use:</h3>  
 
@@ -24,6 +25,8 @@
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
   <h3>Currently learning</h3>
 
@@ -35,8 +38,11 @@
 
 <p style="text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=SAGARSINGH-1&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=SAGARSINGH-1&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAGARSINGH-1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</p>
 <br>
 
 [![An image of @sagarsingh1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sagarsingh1)](https://holopin.io/@sagarsingh1)
