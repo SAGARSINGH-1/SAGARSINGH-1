@@ -1,13 +1,13 @@
-<img src="https://media1.giphy.com/media/jTMw980OBX5YEAulPm/200w.webp?cid=ecf05e47j9zw1kwjhpjfz4gl5081x8mumvwrmjlzomk0e7na&ep=v1_stickers_search&rid=200w.webp&ct=s" width="100px"/>
+<h1 align="center">Hi there! 👋 I'm Sagar Singh</h1>
 
-<h1 align="left">Hi 👋, I'm Sagar Singh</h1>
+<p align="center">A passionate Frontend Web Developer based in India</p>
 
-<p align="left">A passionate Web developer from India</p>
+<div align="center">
+  <img src="https://media1.giphy.com/media/jTMw980OBX5YEAulPm/200w.webp?cid=ecf05e47j9zw1kwjhpjfz4gl5081x8mumvwrmjlzomk0e7na&ep=v1_stickers_search&rid=200w.webp&ct=s" width="100px"/>
+</div>
 
-<h2 align="left">Technical skills</h3>
-
-<div align="left">
-  <h3>Tools that help me a lot:</h3>
+<div align="center">
+  <h3>Tools that I use:</h3>
   
   ![Visual Studio](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
@@ -18,7 +18,8 @@
   ![Netlify](	https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
   ![GithubPages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
   ![Discord](	https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-  <h3>Tech I use:</h3>  
+
+  <h3>Tech Stack:</h3>  
 
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -31,7 +32,7 @@
   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
   ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=Appwrite&logoColor=black)
 
-  <h3>Currently learning</h3>
+  <h3>Currently Learning:</h3>
   
   ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=Appwrite&logoColor=black)
   ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
@@ -40,13 +41,20 @@
 </div>
 <br>
 
-<p style="text-align: center;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SAGARSINGH-1&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=SAGARSINGH-1&theme=dark&hide_border=false)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAGARSINGH-1&theme=dark&hide_border=false" alt="GitHub Streak" />
+</div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAGARSINGH-1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</p>
-<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAGARSINGH-1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>
+
+<div align="center">
 
 [![An image of @sagarsingh1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sagarsingh1)](https://holopin.io/@sagarsingh1)
+
+</div>
