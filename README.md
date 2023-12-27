@@ -1,3 +1,5 @@
+<img src="https://media1.giphy.com/media/jTMw980OBX5YEAulPm/200w.webp?cid=ecf05e47j9zw1kwjhpjfz4gl5081x8mumvwrmjlzomk0e7na&ep=v1_stickers_search&rid=200w.webp&ct=s" width="100px"/>
+
 <h1 align="left">Hi 👋, I'm Sagar Singh</h1>
 
 <p align="left">A passionate Web developer from India</p>
