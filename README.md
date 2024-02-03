@@ -38,6 +38,7 @@
   ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
   ![Tauri](	https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=Tauri&logoColor=white)
   ![Next](	https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![TypeScript](	https://img.shields.io/badge/typescript-415bc6?style=for-the-badge&logo=typescript&logoColor=white)
 </div>
 <br>
 
